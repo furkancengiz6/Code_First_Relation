@@ -4,7 +4,7 @@ Bu proje, **Entity Framework Core** kullanılarak **Code First** yaklaşımıyla
 
 ## 🛠 Kullanılan Teknolojiler
 
-- .NET 6 / .NET 7
+- .NET 8
 - Entity Framework Core
 - SQL Server (LocalDB veya Express)
 - Visual Studio 2022
